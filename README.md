@@ -1,0 +1,2 @@
+# AcccelerometerSensorExample
+Sensor Active 
