@@ -1,4 +1,2 @@
 # AcccelerometerSensorExample
-# AcccelerometerSensorExample
-# AcccelerometerSensorExample
-# AcccelerometerSensorExample
+
